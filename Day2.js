@@ -1,0 +1,12 @@
+let x = "drop";
+let y = "sameer";
+let z = "abort";
+let a = "blur";
+let b = "error";
+let c = "copy";
+document.getElementById("drop").innerHTML = x;
+document.getElementById("name").innerHTML = y;
+document.getElementById("abort").innerHTML = z;
+document.getElementById("blur").innerHTML = a;
+document.getElementById("error").innerHTML = b;
+document.getElementById("copy").innerHTML = c;
