@@ -17,7 +17,6 @@ function studentsToAdd()
         };
         console.log(studentObject)
         studentList.unshift(studentObject);
-        Student_list.innerHTML = ""; 
         console.log(studentList)
         displaystudents();
     }
