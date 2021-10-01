@@ -8,7 +8,6 @@ function studentsToAdd()
     const Student_contact= document.querySelector("#num").value;
     if((Student_name=="")||(Student_mail=="")||(Student_contact==""))
     {
-        return;
     }
     else{
         const studentObject={
